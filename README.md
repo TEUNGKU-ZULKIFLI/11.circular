@@ -1,16 +1,11 @@
-# circular
+# Circular
 
-A new Flutter project.
+Proyek Flutter ini berfokus pada implementasi elemen UI berbentuk **Circular**, yang dapat mencakup berbagai komponen seperti indikator loading, tombol bulat, atau card berbentuk lingkaran. Desain circular sering digunakan untuk memberikan tampilan yang menarik dan modern dalam aplikasi.
 
-## Getting Started
+## Fitur Utama
+- **Indikator Loading Circular:** Aplikasi ini menampilkan indikator loading berbentuk lingkaran yang memberikan umpan balik visual kepada pengguna saat aplikasi memuat konten.
+- **Tombol Bulat:** Penggunaan tombol berbentuk bulat yang dapat dikustomisasi untuk berbagai aksi, memberikan tampilan yang menarik dan interaktif.
+- **Desain yang Responsif:** Elemen circular dirancang untuk beradaptasi dengan berbagai ukuran layar, memastikan tampilan yang konsisten dan menarik di semua perangkat.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tujuan Proyek
+Proyek ini bertujuan untuk memperkenalkan pengguna pada cara membuat dan menggunakan elemen UI berbentuk circular di aplikasi Flutter. Desain circular sering kali menambah daya tarik visual dan membantu dalam menciptakan antarmuka pengguna yang modern. Dengan proyek ini, pengguna dapat belajar bagaimana mendesain dan mengimplementasikan elemen circular dengan efektif dalam aplikasi mereka.
